@@ -34,4 +34,6 @@ Units returned and their effect on revenue
 📁 CSV dataset (imported and cleaned within Power BI)
 
 ✅ Outcomes
-This project demonstrates how data visualization can help stakeholders make informed business decisions. It’s useful for sales analysis, inventory planning, and understanding market behavior in the health supplement domain
+This project demonstrates how data visualization can help stakeholders make informed business decisions. It’s useful for sales analysis, inventory planning, and understanding market behavior in the health supplement domain. 
+
+
