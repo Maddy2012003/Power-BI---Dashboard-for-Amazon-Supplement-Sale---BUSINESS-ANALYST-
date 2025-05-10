@@ -1,38 +1,75 @@
-# Power-BI---Dashboard-for-Amazon-Supplement-Sale---BUSINESS-ANALYST-
-I have collected weekly sales data from January 2020 to April 2025 for various health and wellness supplements. The dataset includes major product categories such as Protein, Vitamins, Omega, and Amino Acids—commonly used in fitness and nutrition. Sales data is sourced from top e-commerce platforms.
+# 📊 Power BI Dashboard – Amazon Supplement Sales Analysis
 
-📦 >>>> Dataset Summary
-Time Period: Jan 2020 – Apr 2025 (weekly data)
+This Power BI project analyzes weekly sales data of health and wellness supplements sold on major e-commerce platforms between $$January 2020 and April 2025##. The dashboard is built to provide valuable business insights into trends, product performance, and market behavior across different countries.
 
-Platforms: Amazon, Walmart, iHerb
+---
 
-Countries: USA, UK, Canada
+## 📁 Dataset Overview
 
-Categories: Protein, Vitamin, Omega, Amino Acids, etc.
+- **Time Period**: Jan 2020 – Apr 2025 (Weekly Data)
+- **Platforms**: Amazon, Walmart, iHerb
+- **Countries**: USA, UK, Canada
+- **Product Categories**: Protein, Vitamins, Omega, Amino Acids
+- **Metrics Tracked**:
+  - Revenue
+  - Units Sold
+  - Returns
+  - Discount %
+  - Price
 
-Metrics Tracked: Revenue, Units Sold, Returns, Discount %, Price.
+---
 
-📊 >>>> Power BI Dashboard Features
+## 📊 Key Dashboard Features
 
-Revenue trends over time
+- 📈 Revenue trends by week, country, and platform  
+- 🛒 Top-performing products and categories  
+- 🌎 Country-wise and platform-wise sales comparisons  
+- 💸 Impact of discounts on sales  
+- 🔁 Units returned and revenue loss analysis  
 
-Top-performing products and categories
+---
 
-Platform-wise sales comparison
+## 🛠 Tools & Technologies
 
-Country-wise demand visualization
+- **Power BI** – Data modeling and visualization  
+- **CSV Dataset** – Loaded and transformed within Power BI  
 
-Impact of discounts on sales
+---
 
-Units returned and their effect on revenue
+## ✅ Project Outcomes
 
+This dashboard enables business stakeholders to:
+- Monitor real-time sales trends  
+- Make data-driven decisions for marketing, pricing, and inventory planning  
+- Identify key products and platforms driving revenue  
+- Understand regional buying behavior in the health supplement domain  
 
-📌 Tools Used
-🛠️ Power BI for data visualization
+---
 
-📁 CSV dataset (imported and cleaned within Power BI)
+## 📷 Screenshots
 
-✅ Outcomes
-This project demonstrates how data visualization can help stakeholders make informed business decisions. It’s useful for sales analysis, inventory planning, and understanding market behavior in the health supplement domain. 
+> Add your screenshots in a folder named `/screenshots` and link them below:
+
+![Overview](screenshots/overview.png)
+![Revenue Trends](screenshots/revenue_trends.png)
+
+---
+
+## ▶️ How to Use This Project
+
+1. Clone the repository
+2. Open the file `Amazon_Supplement_Sales.pbix` in Power BI Desktop
+3. Interact with the visuals and explore insights
+
+---
+
+## 👤 Author
+
+- **Name**: *Madhusudan*
+- **LinkedIn**: https://www.linkedin.com/in/madhusudan-ks-91ba9b256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- 
+
+---
+
 
 
